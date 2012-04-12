@@ -1,0 +1,15 @@
+Welcome to quality eclipse plugin using Java and Eclipse Framework.
+
+*********************************************************************************************************************
+Introduction
+
+A demo app. This plugin is compatible with Eclipse 3.4 and above. Install the jar file in your Eclipse Plugins 
+and restart Eclipse. Go to Window >>> Show View >>> Other... >>> QualityEclipse >>> Favorites
+
+My current effort is to create different plugins to be submitted to the Eclipse Marketplace.
+
+Getting Help
+**********************************************************************************************************************
+If you have a question or need help with application, you can get help from the following sources:
+
+* eMail: opensourcein@gmail.com

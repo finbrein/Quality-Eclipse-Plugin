@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project default="plugin_export" name="build">
+	<target name="plugin_export">
+		<pde.exportPlugins destination="C:\Projects\eclipse-plugins\Build" exportSource="true" exportType="zip" filename="FavoritesProducts.zip" plugins="com.qualityeclipse.favorites" useJARFormat="true"/>
+	</target>
+</project>
